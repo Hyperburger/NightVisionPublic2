@@ -1,0 +1,9 @@
+name: Contry
+version: 1.0-SNAPSHOT
+main: me.hyperburger.contry.Contry
+api-version: 1.13
+authors: [Hyper]
+description: desc
+commands:
+  nv:
+    description: nv

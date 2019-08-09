@@ -1,0 +1,9 @@
+name: Contry
+version: ${project.version}
+main: me.hyperburger.contry.Contry
+api-version: 1.13
+authors: [Hyper]
+description: desc
+commands:
+  nv:
+    description: nv
